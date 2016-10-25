@@ -1,0 +1,15 @@
+Ainda na página do blog, vamos adicionar algumas classes e ids nos elementos do HTML
+
+● Utilizando os novos seletores que vimos, faça:
+
+○ Aplique estilos diferentes para as tags <header> da página e dos posts
+
+○ Formate os links do menu de categorias
+
+○ Coloque linhas separando os posts. Utilize border-bottom em cada post, exceto no último.
+
+○ Formate os links de autor e categoria dos posts.
+
+○ Faça com que a formatação dos links mude ao passar o mouse.
+
+○ Faça com que a imagem do post ocupe a largura completa do post
